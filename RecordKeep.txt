@@ -1,3 +1,10 @@
 Oct 2: Data cleaning by using the clean.py program that remove specific empty cells in csv files 
+
 Oct 3: Importing all of the data to Postgresql by using databaseupload.py with python libraries such as SQLAlchemy and pandas
+
 Oct 5: deleted csv files that are not needed for this research project with SQL
+
+Oct 11&12: Cleaning data in SQL & Python by... deleting information that will not be used, creating
+a new table from existing information so the information is more streamlined,
+creating new columns for information missing, and changing number values into text values 
+
