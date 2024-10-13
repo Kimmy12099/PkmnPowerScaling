@@ -1,0 +1,17 @@
+These moves were excluded because of... 
+A. These moves are very strong "one time moves" or "you can use for 3 turns" 
+(Z-Moves & Dynamax + Gigantamax moves) and will skew the results 
+B. Moves that are calculated based off "something", because the base power (or fixed damage) is variable 
+C. Some moves are not useable ingame (like eternabeam, light of ruin)
+D. Fixed damage does not equal base power
+
+Here are all the moves that were excluded:
+z-moves, dynamax moves, eternabeam,
+return,frustration,gyro ball,wring out, counter
+ crush grip,electro ball,OHKO [fissure, horn drill, sheer cold,guillotine],
+sonic boom, low kick,seismic toss,dragon rage,
+ fissure, night shade, bide, psywave,super-fang,
+flail,reversal,present,magnitude,mirror-coat,
+beat-up,spit-up,endeavor,natural-gift,metal burst, 
+fling, trump card,punishment, grass knot,heavy slam, 
+final gambit, heat crash, pika papow, veevee-volly	

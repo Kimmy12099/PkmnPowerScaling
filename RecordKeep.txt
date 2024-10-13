@@ -8,3 +8,4 @@ Oct 11&12: Cleaning data in SQL & Python by... deleting information that will no
 a new table from existing information so the information is more streamlined,
 creating new columns for information missing, and changing number values into text values 
 
+Oct 13: Updating excluded moves 

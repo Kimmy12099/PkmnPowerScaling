@@ -61,7 +61,6 @@ id,identifier,generation_id,power,pp,accuracy,priority,damage_class,type
 65,drill-peck,1,80,20,100,0,physical,flying
 66,submission,1,80,20,80,0,physical,fighting
 67,low-kick,1,-1,20,100,0,physical,fighting
-68,counter,1,-1,20,100,-5,physical,fighting
 70,strength,1,80,15,100,0,physical,normal
 71,absorb,1,20,25,100,0,special,grass
 72,mega-drain,1,40,15,100,0,special,grass
@@ -579,7 +578,6 @@ id,identifier,generation_id,power,pp,accuracy,priority,damage_class,type
 614,thousand-arrows,6,90,10,100,0,physical,ground
 615,thousand-waves,6,90,10,100,0,physical,ground
 616,lands-wrath,6,90,10,100,0,physical,ground
-617,light-of-ruin,6,140,5,90,0,special,fairy
 618,origin-pulse,6,110,10,85,0,special,water
 619,precipice-blades,6,120,10,85,0,physical,ground
 620,dragon-ascent,6,120,5,100,0,physical,flying
