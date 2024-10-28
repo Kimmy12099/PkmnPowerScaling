@@ -13,3 +13,7 @@ Oct 13: Updating excluded moves
 Oct 14: using Tableau to visualize data
 
 Oct 17-18: error fixing + finishing visualizing data 
+
+Oct 19-20: analyzing data + preparing report 
+
+Oct 26-28: Planning type chart analysis program
