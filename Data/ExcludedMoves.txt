@@ -8,7 +8,7 @@ D. Fixed damage does not equal base power
 Here are all the moves that were excluded:
 z-moves, dynamax moves, eternabeam,
 return,frustration,gyro ball,wring out, counter
- crush grip,electro ball,OHKO [fissure, horn drill, sheer cold,guillotine],
+ crush grip,electro ball,OHKO (One Hit KO) [fissure, horn drill, sheer cold,guillotine],
 sonic boom, low kick,seismic toss,dragon rage,
  fissure, night shade, bide, psywave,super-fang,
 flail,reversal,present,magnitude,mirror-coat,

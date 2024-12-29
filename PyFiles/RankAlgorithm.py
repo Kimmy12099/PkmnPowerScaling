@@ -1,8 +1,13 @@
 import pandas as pd 
+import os 
 
+file_path = "Data/typing_chart.csv"
+print(os.path.exists(file_path))  # This should return True
 #Reading in the type chart and the number of types per generation
-type_chart = pd.read_csv("C:\Users\ianki\Desktop\PkmnPowerScaling\Data\typing_chart") 
-type_per_gen = pd.read_excel("C:\Users\ianki\Desktop\PkmnPowerScaling\Data\PokemonCompleteStats.xlsx", 2) #2 is the index of the sheet
+type_chart = pd.read_csv("Data/typing_chart.csv")
+#type_per_gen = pd.read_excel("C:/Users/ianki/Desktop/PkmnPowerScaling/Data/PokemonCompleteStats.xlsx", 2) #2 is the index of the sheet
+
+print(type_chart)
 
 
 #1. Access type chart and # of type per gen for the rank algorithm

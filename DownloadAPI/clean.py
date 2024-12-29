@@ -1,4 +1,3 @@
-# Used for data cleaning Reading all CSV files and replacing all of the blank cells with a default value of -1, 
 import os
 import pandas as pd
 

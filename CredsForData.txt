@@ -2,4 +2,4 @@ PokeAPI - Official website: https://pokeapi.co/
 Github:https://github.com/PokeAPI/pokeapi
 
 
-Pokemon Type Chart - https://www.kaggle.com/datasets/jadenbailey/pokemon-type-chart?resource=download
+Pokemon Type Chart (For Rank Algorithm) - https://www.kaggle.com/datasets/jadenbailey/pokemon-type-chart?resource=download
