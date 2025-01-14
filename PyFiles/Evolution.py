@@ -11,4 +11,5 @@
 #5. Divide Pokemon into 3 evolutionary stages (combined with #4)
 #6. Find the average base stat total of each generation for each evolutionary stage 
 #7. Also count how many stage 1,2,3 Pokemon are in each generation too and/or averages 
-#8. Data visualization for #6 and #7 (smth like matplotlib or seaborn)
+#8. do some analysis between correlation between evolutionary stages and base stat total per gen
+#9. Data visualization for #6 and #7 (smth like matplotlib or seaborn)
