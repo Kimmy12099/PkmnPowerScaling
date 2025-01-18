@@ -1,3 +1,5 @@
+#THIS IS JUST AN IDEA OF HOW TO FURTHER RESEARCH, NOT GOING TO PROGRAM THIS YET 
+
 # Question to answer: is there a correlation between evolutionary stages and base stat total of a generation 
 
 #1. Create a new excel file called "evolutoary stage and pokemon_id"
