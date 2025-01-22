@@ -18,6 +18,7 @@ for value in count_of_gen['Gen ID']:
     if value in count_dict:
         count_dict[value] += 1
 
+print(count_dict)
 '''
 Ideal Output: 
 list = { 
@@ -66,7 +67,6 @@ for index, row in type_chart.iterrows():
 
 #sort types by average score (Lowest score --> highest score)
 raw_stats_sort = sorted(typing.items(), key=lambda x: x[1]['Average Score'])
-
 
 
 '''
