@@ -32,7 +32,7 @@ list = {
 
 '''
 typing = {}
-type_chart = type_chart.fillna(5) #ran number, no significance, just cannot be 0 cause immunity 
+type_chart = type_chart.fillna(5) #ran number, no significance, just cannot be 0 cause 0 = immunity 
 
 #rows, offensive 
 for index, row in type_chart.iterrows(): 
